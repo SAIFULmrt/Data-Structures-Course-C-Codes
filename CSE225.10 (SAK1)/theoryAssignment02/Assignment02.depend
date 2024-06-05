@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629123073 source:s:\education\coding\c++\assignment02\main.cpp
+	<iostream>
+	"stack.h"
+	"stack.cpp"
+
+1629123074 s:\education\coding\c++\assignment02\stack.h
+
+1629123073 s:\education\coding\c++\assignment02\stack.cpp
+	<bits/stdc++.h>
+	"stack.h"
+
